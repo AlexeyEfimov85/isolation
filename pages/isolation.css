@@ -16,6 +16,7 @@
 @import url("../blocks/lead/__link/lead__link.css");
 @import url("../blocks/lead/__link-text/_desktop-tablet/lead__link-text_desktop-tablet.css");
 @import url("../blocks/lead/__link-text/_mobile/lead__link-text_mobile.css");
+@import url("../blocks/lead/__subheading/lead__subheading.css");
 @import url("../blocks/content/__list/content__list.css");
 @import url("../blocks/content/__item/content__item.css");
 @import url("../blocks/content/contents.css");

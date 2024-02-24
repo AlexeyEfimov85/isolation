@@ -11,8 +11,10 @@
     text-align: center;
 }
 
-.radiobutton__label:hover {
-    background-color: #f1f1f1;
+@media screen and (max-width: 1190px) {
+    .radiobutton__label {
+        width: 308px;
+    }
 }
 
 @media screen and (max-width: 768px) {

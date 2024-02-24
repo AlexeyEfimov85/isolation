@@ -6,3 +6,11 @@
     color: #353F47;
     margin: 0 0 12px 0;
 }
+
+
+@media screen and (max-width: 768px) {
+    .content__subheading {
+        font-size: 16px;
+        line-height: 19px;       
+    }
+}
